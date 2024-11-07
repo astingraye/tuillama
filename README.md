@@ -2,7 +2,7 @@
 ## A TUI Ollama Client
 
 ### Environment Variables
-`CLILLAMA_ENDPOINT`
+`TUILLAMA_ENDPOINT`
 
 ### Previews
 ![image](https://github.com/user-attachments/assets/f0a0a15d-dd36-4677-ad5c-0f1895dc993d)
