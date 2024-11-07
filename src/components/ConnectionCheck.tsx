@@ -18,7 +18,7 @@ export function ConnectionCheck({ children }) {
 			});
 
 			try {
-				const response = await fetch(process.env.CLILLAMA_ENDPOINT);
+				const response = await fetch(process.env.TUILLAMA_ENDPOINT);
 
 				if (response.ok) {
 					setState({ message: 'All good!', variant: 'success' });

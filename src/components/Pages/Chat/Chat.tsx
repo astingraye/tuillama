@@ -22,7 +22,7 @@ export function Chat() {
 
 		setIsTyping(true);
 
-		const response = await axios.post(`${process.env.CLILLAMA_ENDPOINT}/api/chat`, {
+		const response = await axios.post(`${process.env.TUILLAMA_ENDPOINT}/api/chat`, {
 			model: 'llama3.2',
 			messages: newMessages,
 			stream: false,
