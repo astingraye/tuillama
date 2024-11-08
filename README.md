@@ -1,5 +1,6 @@
 # TuiLlama
 ## A TUI Ollama Client
+## Note: this isn't super mainained or fleshed out, mainly just a random idea i had and will never finish
 
 ### Environment Variables
 `TUILLAMA_ENDPOINT`
